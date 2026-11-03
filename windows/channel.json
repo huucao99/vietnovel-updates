@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "product": "vietnovel-studio",
+  "channel": "internal",
+  "status": "preparing_release",
+  "feed_url": "https://raw.githubusercontent.com/huucao99/vietnovel-updates/main/windows/internal.json",
+  "public_key_ed25519_base64": "OgYB9wjOLxNb+1E9TxqMqpR1aLOgRwvqMZWhH/WRBHY="
+}
